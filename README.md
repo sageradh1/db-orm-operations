@@ -1,4 +1,4 @@
-# Company-AI DB Operations
+# DB Operations
 
 ### Description
 This repo contains a flask application which allows various operations on database.
